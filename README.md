@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 # Site is Hosted at
-https://github.com/ksrrock/ReactJS-TodoApp
+https://ksrrock.github.io/ReactJS-TodoApp/
 
 ## Available Scripts
 
