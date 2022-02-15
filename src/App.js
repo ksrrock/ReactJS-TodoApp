@@ -62,9 +62,7 @@ function App() {
      </Container>
      <Form addItem={addtask}></Form>
      <TodoLists updateTask={updatetask} updateTaskStatus={update} deleteItem={deleteTask} tasks={returnTasks(typeOfTask)}></TodoLists>
-    <Container style={{color:'#cacccf'}}>
-      Developed by Kumar Shivam Ranjan
-    </Container>
+   
     </div>
   );
 }
