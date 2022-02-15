@@ -7,7 +7,7 @@ export const TodoLists = (props) => {
      <div>
          {
              tasks.map((task) => {
-                return <TodoItem update={props.updateTaskStatus} deleteTasks={props.deleteItem} key={task.id} taskItem={task}></TodoItem>
+                return <TodoItem updateTaskContent={props.updateTask} update={props.updateTaskStatus} deleteTasks={props.deleteItem} key={task.id} taskItem={task}></TodoItem>
              })
          }
 

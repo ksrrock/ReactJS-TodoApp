@@ -15,7 +15,7 @@ export const Header = () => {
             <MenuIcon></MenuIcon>
         </IconButton>
         <Typography variant="h6" color="inherit" component="div">
-          Todo List
+          Todo List 
         </Typography>
       </Toolbar>
     </AppBar>
